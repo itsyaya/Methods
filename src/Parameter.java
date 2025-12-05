@@ -2,7 +2,7 @@ public class Parameter {
     public static void main(String[] args) {
         printSum(3, 5);
     }   
-        // void: nur ausführen
+
     public static void printSum(int a, int b) {
         System.out.println("Summe = " + (a + b));
     }
