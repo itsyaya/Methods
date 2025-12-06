@@ -7,7 +7,7 @@ public class Parameter {
         System.out.println("Summe = " + (a + b));
     }
 
-    // int: Ergebnis zurückgeben
+
     public static int add(int a, int b) {
         return a + b;
     }
